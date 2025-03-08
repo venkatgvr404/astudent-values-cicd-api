@@ -36,7 +36,7 @@
 						<username>${anypoint.username}</username>
 						<password>${anypoint.password}</password>
 						<applicationName>${project.artifactId}</applicationName>
-						<environment>${env}</environment>
+						<environment>Dev</environment>
 						<region>${deployment.region}</region>
 						<workers>${deployment.workers}</workers>
 						<workerType>${deployment.workerType}</workerType>
